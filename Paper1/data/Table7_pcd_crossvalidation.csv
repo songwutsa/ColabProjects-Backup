@@ -1,0 +1,4 @@
+Comparison,Variable,n,Pearson r (p),Spearman rho (p)
+All sites,Raw PM2.5,32,0.283 (0.116),0.277 (0.125)
+All sites,Log PM2.5,32,0.333 (0.063),—
+Excl. Tab Kwang,Raw PM2.5,31,0.239 (0.195),0.223 (0.229)
